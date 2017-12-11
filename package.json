@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sisidovski/resource-hints-test#readme",
   "dependencies": {
+    "consolidate": "^0.15.0",
     "express": "^4.16.2"
   }
 }
